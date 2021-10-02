@@ -1,2 +1,3 @@
-# TestPage
-Test page to indicate that you have received Reward (KB_SC)
+# Gotcha!
+
+## You got Reward for throwing the plastic container away in the right place!
